@@ -3,7 +3,7 @@
 
 Hi, I'm Sidney Júnior, but you can call me **Sid**. I'm from Brazil. I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
 
-Projects I collaborated on:
+Projects || Collaborated on:
 
 [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
 
@@ -11,6 +11,7 @@ Projects I collaborated on:
 
 [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
 
+[+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
 <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
