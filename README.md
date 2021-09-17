@@ -20,16 +20,12 @@
   <img align="center" alt="Ge-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Ge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-  ##  
   
 ## Projects || Collaborated on:
   - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
   - [+FAT16](https://github.com/srlucasromulo/FAT16) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
   - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
   - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
-
-  ##  
   
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
