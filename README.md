@@ -7,8 +7,7 @@ Hi, I'm Sidney Júnior, but you can call me **Sid**. I'm from Brazil. I'm a comp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidjr2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ge-C" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-  <img align="center" alt="Ge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ge-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ge-Terminal" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   <img align="center" alt="Ge-Js" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Ge-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
