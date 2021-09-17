@@ -1,6 +1,6 @@
-
-  
-Hi, I'm Sidney Júnior, but you can call me **Sid**. I'm from Brazil. I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
+<div>
+  <p>Hi, I'm Sidney Júnior, but you can call me **Sid**. I'm from Brazil. I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
+</div>
 <div>
   <a href="https://github.com/sidjr2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidjr2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,27 +16,34 @@ Hi, I'm Sidney Júnior, but you can call me **Sid**. I'm from Brazil. I'm a comp
   <img align="center" alt="Ge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-Projects || Collaborated on:
+<div>
+  ## Projects || Collaborated on:
 
-[+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
+  - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
 
-[+FAT16](https://github.com/srlucasromulo/FAT16) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
+  - [+FAT16](https://github.com/srlucasromulo/FAT16) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
 
-[+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
+  - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
 
-[+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
-<a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/sid_jr2">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:sidney.fejr@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/sidney.junior.3958">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
+</div>
+  
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
+    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/sid_jr2">
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a target="_blank" href="mailto:sidney.fejr@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/sidney.junior.3958">
+    <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+</div>
+
+
 
 
  
