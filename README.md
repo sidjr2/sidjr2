@@ -27,7 +27,7 @@
   - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Developed to Discipline Algorithm and Data Structure 3 in UFSJ.
   - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) C program template With subfolder.
 
-## Contato
+## Contact
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
