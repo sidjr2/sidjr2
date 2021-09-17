@@ -16,6 +16,8 @@
   <img align="center" alt="Ge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+  ##  
+  
 <div>
   ## Projects || Collaborated on:
 
@@ -27,6 +29,8 @@
 
   - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
 </div>
+ 
+  ##  
   
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
