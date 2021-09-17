@@ -25,8 +25,9 @@
   - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
   - [+FAT16](https://github.com/srlucasromulo/FAT16) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
   - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
-  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile
-  
+  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile.
+
+## Contato
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
