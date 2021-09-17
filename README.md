@@ -3,7 +3,6 @@
 -- I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
 --- Study JAVA, JAVA SCRIPT, CSS, HTML, C# in DIGITAL INOVATION ONE....
 
-
 <div>
   <a href="https://github.com/sidjr2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidjr2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
