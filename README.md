@@ -22,10 +22,10 @@
 </div>
   
 ## Projects || Collaborated on:
-  - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
-  - [+FAT16](https://github.com/srlucasromulo/FAT16) Desenvolvido para disciplina Sistemas Operacionais na UFSJ.
-  - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Desenvolvido para a Disciplina de Algoritmo e Estrutura de dados 3 da UFSJ.
-  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) Projeto visando ajudar no início de um novo projeto em linguagem de programação C com makefile.
+  - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Developed to discipline Operating Systems in UFSJ.
+  - [+FAT16](https://github.com/srlucasromulo/FAT16) Developed to discipline Operating Systems in UFSJ.
+  - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Developed to Discipline Algorithm and Data Structure 3 in UFSJ.
+  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) C program template With subfolder.
 
 ## Contato
 <div align="center">
