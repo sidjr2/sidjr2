@@ -3,8 +3,8 @@
 ### Hi, I'm Sidney Júnior, but you can call me **Sid**.
 
 - I'm from Brazil.
-- I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
-- Study JAVA, JAVA SCRIPT, CSS, HTML, C# in DIGITAL INOVATION ONE....
+  - I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
+    - Study JAVA, JAVA SCRIPT, CSS, HTML, C# in DIGITAL INOVATION ONE....
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/sidjr2">
@@ -25,7 +25,6 @@
   - [+ProcessManager](https://github.com/srlucasromulo/ProcessManager) Developed to discipline Operating Systems in UFSJ.
   - [+FAT16](https://github.com/srlucasromulo/FAT16) Developed to discipline Operating Systems in UFSJ.
   - [+GFC](https://github.com/sidjr2/Grafo-de-Fluxo-de-Controle-AedsIII) Developed to Discipline Algorithm and Data Structure 3 in UFSJ.
-  - [+Modelo com Subdiretorios em C](https://github.com/sidjr2/codigo-modelos) C program template With subfolder.
 
 ## Contact
 <div align="center">
