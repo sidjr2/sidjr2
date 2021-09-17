@@ -3,8 +3,8 @@
 ### Hi, I'm Sidney Júnior, but you can call me **Sid**.
 
 - I'm from Brazil.
--  -- I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
--  --- Study JAVA, JAVA SCRIPT, CSS, HTML, C# in DIGITAL INOVATION ONE....
+- I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
+- Study JAVA, JAVA SCRIPT, CSS, HTML, C# in DIGITAL INOVATION ONE....
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/sidjr2">
