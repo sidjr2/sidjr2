@@ -10,6 +10,7 @@
 </div>
   
 <p>
+<p>
   
 <div align="center">
   <img align="center" alt="Ge-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -20,6 +21,9 @@
   <img align="center" alt="Ge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ge-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
+ 
+<p>
+<p>
   
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sidney-jr2">
