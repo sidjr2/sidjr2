@@ -51,6 +51,8 @@
   <a target="_blank" href="https://www.facebook.com/sidney.junior.3958">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+
+    
 ---
 
 Estou sempre à procura de novas oportunidades para ampliar meus conhecimentos e habilidades e estou aberto a feedbacks e sugestões sobre meus projetos. Sinta-se à vontade para entrar em contato comigo através de qualquer um dos canais acima. Obrigado por visitar meu perfil!
