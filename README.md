@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/sidjr2">
-    [![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)](https://github.com/sidjr2)
+    [![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)](https://github.com/sidjr2/sidjr)
   </a>
 </div>
 
