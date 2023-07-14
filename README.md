@@ -5,11 +5,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/sidjr2">
-    ![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)
-  </a>
-</div>
+![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" src="imagens\redes.gif" width="35%">
 
