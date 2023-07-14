@@ -1,4 +1,5 @@
 ### Hi, I'm Sidney Júnior, but you can call me **Sid**.
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=sidjr2)
 
 - I'm from Brazil.
   - I'm a computer science student of Universidade Federal de São João Del Rei (UFSJ).
