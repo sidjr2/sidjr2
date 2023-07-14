@@ -5,14 +5,14 @@
 
 ---
 
-![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)
-
 <img align="right" src="imagens\redes.gif" width="35%">
 
 - Sou do Brasil.
 - Sou estudante de Ciência da Computação na Universidade Federal de São João Del Rei (UFSJ).
 - Atualmente, estou focado em expandir meus conhecimentos em áreas-chave da Inteligência Artificial e Machine Learning, incluindo Redes Neurais, Redes Bayesianas, Redes Complexas, Algoritmos Bioinspirados e Algoritmos Genéticos.
 - Estou utilizando meu perfil no GitHub como uma plataforma para compartilhar projetos que desenvolvi em várias linguagens de programação, incluindo Python (com Tkinter), C, C++, Java e .NET. Estes projetos destacam as habilidades e conhecimentos que adquiri durante a minha graduação e também são projetados para serem reutilizáveis, com ou sem interface gráfica.
+
+![Snake animation](https://github.com/sidjr2/sidjr2/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/sidjr2">
